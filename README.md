@@ -100,6 +100,32 @@ Socket programming finds applications in various domains, including web developm
 ## Output
 
 
+Server side output
+
+
+
+
+
+
+
+<img width="1008" height="415" alt="image" src="https://github.com/user-attachments/assets/55abf3e7-2fe8-4fc8-9170-bb1b26428fbb" />
+
+
+
+
+
+
+
+
+
+Client Side Output 
+
+
+
+
+
+
+
 
 
 
