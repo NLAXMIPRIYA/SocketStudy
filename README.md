@@ -118,8 +118,25 @@ Server side output
 
 
 
+
+
+
+
+
+
+
 Client Side Output 
 
+
+
+
+
+
+
+
+
+
+<img width="913" height="412" alt="image" src="https://github.com/user-attachments/assets/b5b77f48-2a0b-4e5b-b88e-cab90195a0ae" />
 
 
 
